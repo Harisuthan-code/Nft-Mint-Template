@@ -120,3 +120,14 @@ Built with love by a solo indie dev.
 
 📄 License
 MIT License – Use it freely, just don’t remove the credit. 🙏
+
+
+
+### 💬 Got Feedback or Ideas?
+
+I’d love to hear what you think!
+
+👉 Fill out this quick form: [Feedback Form](https://forms.gle/a1E8R1DbXEP81mru8)  
+Or DM me on Linkdin: [Hari Suthan]
+
+Your feedback helps shape future tools 🙌
